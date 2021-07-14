@@ -6,8 +6,8 @@ WORK IN PROGRESS
 
 ### Installation
 
-* ```pip install cmsplugin_oembed```
-* Add 
+- `pip install cmsplugin_oembed`
+- Add
 
   ```
   'embed_video',
@@ -16,8 +16,4 @@ WORK IN PROGRESS
 
   to `INSTALLED_APPS`
 
-* Sync the database, collect the static files
-
-### Authors
-
-[byteyard](https://byteyard.de)
+- Sync the database, collect the static files
